@@ -1,0 +1,21 @@
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\bin\Debug\CafeSiparis.exe.config
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\bin\Debug\CafeSiparis.exe
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\bin\Debug\CafeSiparis.pdb
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.csproj.AssemblyReference.cache
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.csproj.SuggestedBindingRedirects.cache
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.Properties.Resources.resources
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.csproj.GenerateResource.cache
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.csproj.CoreCompileInputs.cache
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.exe
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.pdb
+C:\Users\krkys\Desktop\C#\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.SiparisForm.resources
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\bin\Debug\CafeSiparis.exe.config
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\bin\Debug\CafeSiparis.exe
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\bin\Debug\CafeSiparis.pdb
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.csproj.AssemblyReference.cache
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.SiparisForm.resources
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.Properties.Resources.resources
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.csproj.GenerateResource.cache
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.csproj.CoreCompileInputs.cache
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.exe
+C:\Users\SEDA\Desktop\githuba YÜKLEEEEE\CafeSiparis\CafeSiparis\obj\Debug\CafeSiparis.pdb

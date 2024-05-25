@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEDA\\Desktop\\githuba Y\u00DCKLEEEEE\\CafeSiparis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA677EF0-2D5D-43EE-9AF3-3204B23D4AA8}|CafeSiparis\\CafeSiparis.csproj|C:\\Users\\SEDA\\Desktop\\githuba Y\u00DCKLEEEEE\\CafeSiparis\\cafesiparis\\siparisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA677EF0-2D5D-43EE-9AF3-3204B23D4AA8}|CafeSiparis\\CafeSiparis.csproj|solutionrelative:cafesiparis\\siparisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA677EF0-2D5D-43EE-9AF3-3204B23D4AA8}|CafeSiparis\\CafeSiparis.csproj|c:\\users\\seda\\desktop\\githuba y\u00FCkleeeee\\cafesiparis\\cafesiparis\\siparisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA677EF0-2D5D-43EE-9AF3-3204B23D4AA8}|CafeSiparis\\CafeSiparis.csproj|solutionrelative:cafesiparis\\siparisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiparisForm.cs",
+              "DocumentMoniker": "C:\\Users\\SEDA\\Desktop\\githuba Y\u00DCKLEEEEE\\CafeSiparis\\CafeSiparis\\SiparisForm.cs",
+              "RelativeDocumentMoniker": "CafeSiparis\\SiparisForm.cs",
+              "ToolTip": "C:\\Users\\SEDA\\Desktop\\githuba Y\u00DCKLEEEEE\\CafeSiparis\\CafeSiparis\\SiparisForm.cs",
+              "RelativeToolTip": "CafeSiparis\\SiparisForm.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:52:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiparisForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SEDA\\Desktop\\githuba Y\u00DCKLEEEEE\\CafeSiparis\\CafeSiparis\\SiparisForm.cs",
+              "RelativeDocumentMoniker": "CafeSiparis\\SiparisForm.cs",
+              "ToolTip": "C:\\Users\\SEDA\\Desktop\\githuba Y\u00DCKLEEEEE\\CafeSiparis\\CafeSiparis\\SiparisForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CafeSiparis\\SiparisForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:52:26.702Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
